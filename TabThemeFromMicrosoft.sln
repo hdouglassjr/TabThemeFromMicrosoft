@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TabThemeFromMicrosoft", "TabThemeFromMicrosoft\TabThemeFromMicrosoft.csproj", "{0AE27F1A-78B4-4963-B25C-D7AE98DE825D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AE27F1A-78B4-4963-B25C-D7AE98DE825D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE27F1A-78B4-4963-B25C-D7AE98DE825D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE27F1A-78B4-4963-B25C-D7AE98DE825D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE27F1A-78B4-4963-B25C-D7AE98DE825D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFF77CD3-DAF2-4B53-A7F1-BB74DD78FA0F}
+	EndGlobalSection
+EndGlobal
